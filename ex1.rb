@@ -5,3 +5,4 @@ puts  (" Enter your name")
 name = gets()
 #gets the user information which is the name
 puts ("Hello #{name}")
+#the output is the users name 
